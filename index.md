@@ -29,6 +29,23 @@ Asi se ve cuando lo inicias:
 
 ![alt text](image-5.png)
 
+Posteriormente, se instala este paquete
+
+![alt text](image-12.png)
+
+Además, se clona el git donde se encuentra los paquetes adicionales y los otros scripts
+
+![alt text](image-13.png) 
+
+Y por último se instala el Bundle
+
+![alt text](image-14.png)
+
+Para probarlo, con un ejemplo google.com
+
+![alt text](image-11.png)
+
+Las direcciones veraces son aquellas que empiezan con 142.50, el resto son sospechosas, como gogle.com
 
 
 ## 6.Norbert ((JUANDI))
