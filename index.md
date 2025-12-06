@@ -10,12 +10,11 @@ posteriormente lo hemos instalado y lo hemos probado.
 
 
 ## 3. JoeSandox (Gerardo)
-
+Joe Sandox es una plataforma avanzada de análisis de malware. Se usa principalmente en ciberseguridad para analizar archivos sospechosos, URLs y comportamientos maliciosos dentro de un entorno controlado
 ## 4.Hybrid Analysis (Gerardo)
 Es un servicio online que permite subir archivos o URLs sospechosas y analizarlas en un sandbox: un entorno seguro donde se ejecutan para observar su comportamiento. Su objetivo es detectar malware, virus, troyanos, ransomware, scripts maliciosos, etc.
 
-
-
+![alt text](image-10.png)
 
 
 ## 5.Urlcrazy (Sancha)
@@ -36,6 +35,8 @@ Asi se ve cuando lo inicias:
 
 ## 7.SocialPwned (Gerardo)
 
+SocialPwned es una herramienta de código abierto diseñada para realizar OSINT y comprobar si las cuentas de correo electrónico o nombres de usuario de una persona han sido expuestos en filtraciones de datos o data breaches.
+
 ## 8.DuckDuckGo:((JUANDI))
 
 ## 9.VisualPing:(Sancha)
@@ -53,16 +54,29 @@ Al tratarse una aplicacion web no hace falta descargarse nada, no obstante hay q
 
 Hasta que se vuelva a actualizar dentro de una hora (al tener el plan gratuito no podemos bajar el tiempo), hay que esperar.
 
+Para hacer una prueba se ha tomado la web del as.com puesto que se va actualizando con los partidos de fútbol que se desarrollan
+a lo largo del día, la primera foto muestra la que se ha establecido como originial
+
+![alt text](image-6.png)
+
+La segunda muestra los cambios que se han producido.
+
+![alt text](image-7.png)
+
+Aquí se muestra con subrayado en rosa, los cambios que se han ido produciendo.
+
+![alt text](image-8.png)
 
 
+Esta es la notificación del correo que le llega al usuario:
 
-
-
-
-
+![alt text](image-9.png)
 
 ## Bibliografía
 
 - https://webcatalog.io/es/apps/visualping-io (Visualping)
 - https://keepcoding.io/blog/que-es-urlcrazy-ciberseguridad/ (urlcrazy)
 - https://hybrid-analysis.com/release-notes (hybrid analysis)
+- https://www.joesecurity.org/joe-reverser (Joe Sandox)
+- https://mrtuxx.github.io/tools/SocialPwned-ES/  (Social Pwned)
+
