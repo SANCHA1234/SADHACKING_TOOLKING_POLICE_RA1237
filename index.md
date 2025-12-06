@@ -8,11 +8,24 @@ posteriormente lo hemos instalado y lo hemos probado.
 ## 2.IPQualityScore (Sancha)
 
 
+
 ## 3. JoeSandox (Gerardo)
 
 ## 4.Hybrid Analysis (Gerardo)
 
 ## 5.Urlcrazy (Sancha)
+
+ Sirve para generar y probar errores tipográficos o variaciones de dominio para detectar o realizar errores tipográficos, secuestro de URL, phishing y espionaje corporativo. La idea es bastante sencilla: URLCrazy toma un nombre de dominio como una semilla, genera una lista de dominios potenciales de phishing y luego comprueba si están registrados.
+
+Para empezar la instalación, empezamos con "Supo apt-get install urlcrazy"
+
+![alt text](image-4.png)
+
+Asi se ve cuando lo inicias:
+
+![alt text](image-5.png)
+
+
 
 ## 6.Norbert ((JUANDI))
 
@@ -26,6 +39,24 @@ Es una herramienta web, en la cual que se debe de ingresar la URL de la página 
 
 Cada vez que Visual Ping verifica la página o área de la página que seleccionaron, si encuentra un cambio, enviará un email con el screenshot inicial y un screenshot actual con los cambios.
 
+![alt text](image-1.png)
+
+Al tratarse una aplicacion web no hace falta descargarse nada, no obstante hay que registrarse, para que se envíe la notificación al correo. Además, tiene IA integrada por lo que las condiciones ofrecidas de sugerencia, se van cambiando.
+
+
+![alt text](image-3.png)
+
+Hasta que se vuelva a actualizar dentro de una hora (al tener el plan gratuito no podemos bajar el tiempo), hay que esperar.
+
+
+
+
+
+
+
 
 
 ## Bibliografía
+
+- https://webcatalog.io/es/apps/visualping-io (Visualping)
+- https://keepcoding.io/blog/que-es-urlcrazy-ciberseguridad/ (urlcrazy)
