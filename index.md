@@ -12,6 +12,11 @@ posteriormente lo hemos instalado y lo hemos probado.
 ## 3. JoeSandox (Gerardo)
 
 ## 4.Hybrid Analysis (Gerardo)
+Es un servicio online que permite subir archivos o URLs sospechosas y analizarlas en un sandbox: un entorno seguro donde se ejecutan para observar su comportamiento. Su objetivo es detectar malware, virus, troyanos, ransomware, scripts maliciosos, etc.
+
+
+
+
 
 ## 5.Urlcrazy (Sancha)
 
@@ -60,3 +65,4 @@ Hasta que se vuelva a actualizar dentro de una hora (al tener el plan gratuito n
 
 - https://webcatalog.io/es/apps/visualping-io (Visualping)
 - https://keepcoding.io/blog/que-es-urlcrazy-ciberseguridad/ (urlcrazy)
+- https://hybrid-analysis.com/release-notes (hybrid analysis)
