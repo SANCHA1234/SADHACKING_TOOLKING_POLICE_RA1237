@@ -43,7 +43,7 @@ Y por último se instala el Bundle
 
 Para probarlo, con un ejemplo google.com
 
-![alt text](image-11.png)
+![alt text](image-11.png) 
 
 Las direcciones veraces son aquellas que empiezan con 142.50, el resto son sospechosas, como gogle.com
 
