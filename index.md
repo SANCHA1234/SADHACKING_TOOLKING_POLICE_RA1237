@@ -7,8 +7,21 @@ posteriormente lo hemos instalado y lo hemos probado.
 
 ## 2.IPQualityScore (Sancha)
 
+Es una herramienta web que te permite saber si la dirección ip que le interesa al usuario es segura, además muestra la ubicación física del servidor.
 
+Por ejemplo, haciendo un nslookup de la web elmundo.es, nos refleja una ip.
 
+![alt text](image-16.png)
+
+Esta es la web, lo que sale tapado es la dirección física del equipo que la consulta, por eso sale tapado
+
+![alt text](image-17.png)
+
+Con la ip resultante de la consulta de la web, nos sale lo siguiente:
+
+![alt text](image-18.png)
+
+Nos indica que el servidor se encuentra en Holanda, la ip no sale en ningua lista sospechosa e indica a la subred a la que pertenece.
 ## 3. JoeSandox (Gerardo)
 Joe Sandox es una plataforma avanzada de análisis de malware. Se usa principalmente en ciberseguridad para analizar archivos sospechosos, URLs y comportamientos maliciosos dentro de un entorno controlado
 ## 4.Hybrid Analysis (Gerardo)
