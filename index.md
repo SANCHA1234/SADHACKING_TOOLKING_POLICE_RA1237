@@ -74,9 +74,6 @@ Es una herramienta para encontrar y verificar los correos electrónicos, sobre t
 
 SocialPwned es una herramienta de código abierto diseñada para realizar OSINT y comprobar si las cuentas de correo electrónico o nombres de usuario de una persona han sido expuestos en filtraciones de datos o data breaches.
 
-<img width="685" height="223" alt="image" src="https://github.com/user-attachments/assets/85347938-73f0-4153-b142-f2d824ce135b" />
-
-
 ## 8.DuckDuckGo:((JUANDI))
 
 Duckduckgo actúa como un buscador, pero en la versión para móviles es un navegador web, que ofrece una búsqueda privada por la red, no guarda ninguna información personal y bloquea los rastreadores de los sitios web, además es una extensión muy liviana para los ordenadores y se puede instalar en cualquier navegador. Además es un buscador que no guarda información del usuario, esto implica que no personaliza sus búsquedas, otro punto que tiene es que no guarda la dirección IP del usuario ni guarda información relacionada con ellos, además, tampoco comparte los datos sobre las búsquedas de los usuarios con las páginas web. por ello es un buscador bastante seguro. como prueba hago una busqueda en el navegador brave, pero con el buscador predeterminado duckduckgo
