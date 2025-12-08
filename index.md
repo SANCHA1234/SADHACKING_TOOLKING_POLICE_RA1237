@@ -3,7 +3,9 @@ Para las siguientes herramientas, hemos investigado para que sirven y cuales son
 posteriormente lo hemos instalado y lo hemos probado.
 
 ## 1.What is my ip (JUANDI)
+Es un sitio web, que sirve para identificar cual es tu ip publica, a partir de tu ip privada, esta ofrece detalles como quién es tu proveedor de internet, y la ciudad desde donde te lo provee
 
+<img width="680" height="345" alt="image" src="https://github.com/user-attachments/assets/bf6e7c30-b96f-4ae2-8d9c-8f84a65424a9" />
 
 ## 2.IPQualityScore (Sancha)
 
@@ -61,17 +63,29 @@ Para probarlo, con un ejemplo google.com
 Las direcciones veraces son aquellas que empiezan con 142.50, el resto son sospechosas, como gogle.com
 
 
-## 6.Norbert ((JUANDI))
+## 6.VoilaNorbert ((JUANDI))
 
+Es una herramienta para encontrar y verificar los correos electrónicos, sobre todo correos corporativos a partir de nombres y dominios, con ello se puede comprobar la validez del correo buscado, además también ayuda a enriquecer, es decir,  Obtiene datos extra para perfiles de prospectos, como cargo, ubicación o perfiles de redes sociales.
+
+<img width="690" height="285" alt="image" src="https://github.com/user-attachments/assets/2f296ff7-2f91-4115-b5a6-cd11e9080f4b" />
+
+Ésta es una búsqueda del correo del director de netflix españa, además, para buscar hay que registrarse.
 ## 7.SocialPwned (Gerardo)
 
 SocialPwned es una herramienta de código abierto diseñada para realizar OSINT y comprobar si las cuentas de correo electrónico o nombres de usuario de una persona han sido expuestos en filtraciones de datos o data breaches.
 
+<img width="685" height="223" alt="image" src="https://github.com/user-attachments/assets/85347938-73f0-4153-b142-f2d824ce135b" />
+
+
 ## 8.DuckDuckGo:((JUANDI))
+
+Duckduckgo actúa como un buscador, pero en la versión para móviles es un navegador web, que ofrece una búsqueda privada por la red, no guarda ninguna información personal y bloquea los rastreadores de los sitios web, además es una extensión muy liviana para los ordenadores y se puede instalar en cualquier navegador. Además es un buscador que no guarda información del usuario, esto implica que no personaliza sus búsquedas, otro punto que tiene es que no guarda la dirección IP del usuario ni guarda información relacionada con ellos, además, tampoco comparte los datos sobre las búsquedas de los usuarios con las páginas web. por ello es un buscador bastante seguro. como prueba hago una busqueda en el navegador brave, pero con el buscador predeterminado duckduckgo
+
+<img width="675" height="313" alt="image" src="https://github.com/user-attachments/assets/e2dea363-d230-4efe-b7af-ec6bec261e90" />
 
 ## 9.VisualPing:(Sancha)
 
-Es una herramienta web, en la cual que se debe de ingresar la URL de la página o blog que se quiere monitorear y la web se encarga automáticamente  de hacer una captura de la página. Una vez hecho eso se tienen dos opciones, una que verifique la página completa o con el cursor se selecciona una área de la página. Luego te permite ajustar cada cuanto tiempo te notificar cualquier tipo de cambio para que te llegue la  que provocará el envío de la notificación y su dirección de email.
+Es una herramienta web, en la cual que se debe de ingresar la URL de la página o blog que se quiere monitorear y la web se encarga automáticamente  de hacer una captura de la página. Una vez hecho eso se tienen dos opciones, una que verifique la página completa o con el cursor se selecciona una área de la página. Luego te permite ajustar cada cuanto tiempo te notificar cualquier tipo de cambio para que te llegue la  que provocará el envío de la notificación y su dirección de email. Para poder usar este servicio hay que registrarse de forma gratuita, no obstante con la versión gratuita te avisa como poco cada hora y si quieres que te avise con un intervalo menor hay que subscribirse a una oferta de pago.
 
 Cada vez que Visual Ping verifica la página o área de la página que seleccionaron, si encuentra un cambio, enviará un email con el screenshot inicial y un screenshot actual con los cambios.
 
@@ -110,4 +124,10 @@ Esta es la notificación del correo que le llega al usuario:
 - https://www.joesecurity.org/joe-reverser (Joe Sandox)
 - https://mrtuxx.github.io/tools/SocialPwned-ES/  (Social Pwned)
 - https://www.ipqualityscore.com/ip-reputation-check (IPQUALITYSCORE)
+- https://www.incibe.es/ciudadania/herramientas/duckduckgo (DuckDuckGo)
+- https://www.xataka.com/basics/duckduckgo-que-principales-diferencias-google (DuckDuckGo)
+- https://www.voilanorbert.com/ (VoilaNorbert)
+- https://whatismyipaddress.com/ (What is my i paddress)
+
+
 
