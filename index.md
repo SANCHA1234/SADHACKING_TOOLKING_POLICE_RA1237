@@ -4,7 +4,7 @@ posteriormente lo hemos instalado y lo hemos probado.
 
 ## 1.What is my ip (JUANDI)
 
-Es un sitio web, que sirve para identificar cual es tu ip publica, a partir de tu ip privada, esta ofrece detalles como quién es tu proveedor de internet, y la ciudad desde donde te lo provee
+Es un sitio web, que sirve para identificar cual es tu ip publica, a partir de tu ip privada, esta ofrece detalles como quién es tu proveedor de internet, y la ciudad desde donde te lo provee.
 
 <img width="680" height="345" alt="image" src="https://github.com/user-attachments/assets/bf6e7c30-b96f-4ae2-8d9c-8f84a65424a9" />
 
@@ -16,7 +16,7 @@ Por ejemplo, haciendo un nslookup de la web elmundo.es, nos refleja una ip.
 
 ![alt text](image-16.png)
 
-Esta es la web, lo que sale tapado es la dirección física del equipo que la consulta, por eso sale tapado
+Esta es la web, lo que sale tapado es la dirección física del equipo que la consulta, por eso sale tapado.
 
 ![alt text](image-17.png)
 
@@ -48,7 +48,7 @@ Es un servicio online que permite subir archivos o URLs sospechosas y analizarla
 
  Sirve para generar y probar errores tipográficos o variaciones de dominio para detectar o realizar errores tipográficos, secuestro de URL, phishing y espionaje corporativo. La idea es bastante sencilla: URLCrazy toma un nombre de dominio como una semilla, genera una lista de dominios potenciales de phishing y luego comprueba si están registrados.
 
-Para empezar la instalación, empezamos con "Supo apt-get install urlcrazy"
+Para empezar la instalación, empezamos con "Supo apt-get install urlcrazy".
 
 ![alt text](image-4.png)
 
@@ -56,15 +56,15 @@ Asi se ve cuando lo inicias:
 
 ![alt text](image-5.png)
 
-Posteriormente, se instala este paquete
+Posteriormente, se instala este paquete.
 
 ![alt text](image-12.png)
 
-Además, se clona el git donde se encuentra los paquetes adicionales y los otros scripts
+Además, se clona el git donde se encuentra los paquetes adicionales y los otros scripts.
 
 ![alt text](image-13.png) 
 
-Y por último se instala el Bundle
+Y por último se instala el Bundle.
 
 ![alt text](image-14.png)
 
@@ -94,7 +94,9 @@ Debería verse algo así:
 
 ## 8.DuckDuckGo:((JUANDI))
 
-Duckduckgo actúa como un buscador, pero en la versión para móviles es un navegador web, que ofrece una búsqueda privada por la red, no guarda ninguna información personal y bloquea los rastreadores de los sitios web, además es una extensión muy liviana para los ordenadores y se puede instalar en cualquier navegador. Además es un buscador que no guarda información del usuario, esto implica que no personaliza sus búsquedas, otro punto que tiene es que no guarda la dirección IP del usuario ni guarda información relacionada con ellos, además, tampoco comparte los datos sobre las búsquedas de los usuarios con las páginas web. por ello es un buscador bastante seguro. como prueba hago una busqueda en el navegador brave, pero con el buscador predeterminado duckduckgo
+Duckduckgo actúa como un buscador, pero en la versión para móviles es un navegador web, que ofrece una búsqueda privada por la red, no guarda ninguna información personal y bloquea los rastreadores de los sitios web, además es una extensión muy liviana para los ordenadores y se puede instalar en cualquier navegador.
+
+ Además es un buscador que no guarda información del usuario, esto implica que no personaliza sus búsquedas, otro punto que tiene es que no guarda la dirección IP del usuario ni guarda información relacionada con ellos, además, tampoco comparte los datos sobre las búsquedas de los usuarios con las páginas web. Por ello, es un buscador bastante seguro. como prueba hago una busqueda en el navegador brave, pero con el buscador predeterminado duckduckgo.
 
 <img width="675" height="313" alt="image" src="https://github.com/user-attachments/assets/e2dea363-d230-4efe-b7af-ec6bec261e90" />
 
@@ -114,7 +116,7 @@ Al tratarse una aplicacion web no hace falta descargarse nada, no obstante hay q
 Hasta que se vuelva a actualizar dentro de una hora (al tener el plan gratuito no podemos bajar el tiempo), hay que esperar.
 
 Para hacer una prueba se ha tomado la web del as.com puesto que se va actualizando con los partidos de fútbol que se desarrollan
-a lo largo del día, la primera foto muestra la que se ha establecido como originial
+a lo largo del día, la primera foto muestra la que se ha establecido como originial.
 
 ![alt text](image-6.png)
 
