@@ -3,6 +3,7 @@ Para las siguientes herramientas, hemos investigado para que sirven y cuales son
 posteriormente lo hemos instalado y lo hemos probado.
 
 ## 1.What is my ip (JUANDI)
+
 Es un sitio web, que sirve para identificar cual es tu ip publica, a partir de tu ip privada, esta ofrece detalles como quién es tu proveedor de internet, y la ciudad desde donde te lo provee
 
 <img width="680" height="345" alt="image" src="https://github.com/user-attachments/assets/bf6e7c30-b96f-4ae2-8d9c-8f84a65424a9" />
@@ -25,9 +26,20 @@ Con la ip resultante de la consulta de la web, nos sale lo siguiente:
 
 Nos indica que el servidor se encuentra en Holanda, la ip no sale en ningua lista sospechosa e indica a la subred a la que pertenece.
 ## 3. JoeSandox (Gerardo)
-Joe Sandox es una plataforma avanzada de análisis de malware. Se usa principalmente en ciberseguridad para analizar archivos sospechosos, URLs y comportamientos maliciosos dentro de un entorno controlado
+
+Es una plataforma avanzada de análisis de malware. Se usa principalmente en ciberseguridad para analizar archivos sospechosos, URLs y comportamientos maliciosos donde el archivo sospechoso se ejecuta en un entorno virtual aislado y seguro. Funciona de la siguiente manera:
+- Análisis dinámico: Registra a qué ip, dominios, países… quiero conectarse, monitorea que procesos inician y averigua si el malware trata de crear, modificar o borrar archivos.
+- Análisis estático: Antes de ejecutar el archivo visualiza información del archivo (como su hash, tamaño, encabezado…), busca patrones de texto para revelar dominios maldiciones, comandos… y detecta técnicas que tratan de ocultar archivos maliciosos.
+- Genera informes a través de puntuación de riesgo, proporciona la lista de direcciones IP, hashes, dominios y claves de registro que el malware tocó y puede llegar a mostrar una grabación de lo que ocurrió durante la ejecución en el entorno virtual.
+
+![alt text](image-23.png)
+
 ## 4.Hybrid Analysis (Gerardo)
-Es un servicio online que permite subir archivos o URLs sospechosas y analizarlas en un sandbox: un entorno seguro donde se ejecutan para observar su comportamiento. Su objetivo es detectar malware, virus, troyanos, ransomware, scripts maliciosos, etc.
+Es un servicio online que permite subir archivos o URLs sospechosas y analizarlas en un sandbox: un entorno seguro donde se ejecutan para observar su comportamiento. Su objetivo es detectar malware, virus, troyanos, ransomware, scripts maliciosos, etc… Funciona:
+- Análisis Estático: Compara el hash del archivo con una vasta base de datos de amenazas conocidas, examina las cadenas de texto incrustadas para buscar posibles comandos, URLs, claves de registro o nombres de archivos sospechosos y analiza la estructura del ejecutable para identificar si está empaquetado u ofuscado.
+- Análisis Dinámico: Registra las interacciones del archivo con el sistema operativo, captura todo el tráfico de red generado, cuando el malware utiliza técnicas de inyección o desempaquetamiento , Hybrid Analysis intenta obtener la versión no empaquetada del código malicioso, facilitando el análisis.
+- Puntúa el archivo, genera una lista de todos los artefactos maliciosos que el archivo intentó usar (hashes, dominios contactados, direcciones IP y rutas de archivo.) y mapea las acciones del malware con el framework MITRE ATT&CK (para entender mejor cómo fue el ataque).
+
 
 ![alt text](image-10.png)
 
@@ -72,7 +84,13 @@ Es una herramienta para encontrar y verificar los correos electrónicos, sobre t
 Ésta es una búsqueda del correo del director de netflix españa, además, para buscar hay que registrarse.
 ## 7.SocialPwned (Gerardo)
 
-SocialPwned es una herramienta de código abierto diseñada para realizar OSINT y comprobar si las cuentas de correo electrónico o nombres de usuario de una persona han sido expuestos en filtraciones de datos o data breaches.
+SocialPwned es una herramienta de código abierto diseñada para realizar OSINT y comprobar si las cuentas de correo electrónico o nombres de usuario de una persona han sido expuestos en filtraciones de datos o data breaches. El objetivo de esta herramienta es determinar si un objetivo tiene credenciales comprometidas que podrían ser utilizadas en un ataque de relleno de credenciales.
+
+![alt text](image-19.png)
+Debería verse algo así:
+
+![alt text](image-20.png)
+
 
 ## 8.DuckDuckGo:((JUANDI))
 
@@ -113,6 +131,18 @@ Esta es la notificación del correo que le llega al usuario:
 
 ![alt text](image-9.png)
 
+
+## 10. Browserling
+
+
+Permite ver y probar cómo se comporta un sitio web en diferentes navegadores y sistemas operativos sin tener que instalarlos todos en tu propia máquina. Permite visitar sitios web sospechosos o maliciosos sin poner en riesgo tu propia computadora, ya que la navegación ocurre dentro de una máquina virtual remota y desechable.
+
+![alt text](image-21.png)
+
+
+![alt text](image-22.png)
+
+
 ## Bibliografía
 
 - https://webcatalog.io/es/apps/visualping-io (Visualping)
@@ -125,6 +155,8 @@ Esta es la notificación del correo que le llega al usuario:
 - https://www.xataka.com/basics/duckduckgo-que-principales-diferencias-google (DuckDuckGo)
 - https://www.voilanorbert.com/ (VoilaNorbert)
 - https://whatismyipaddress.com/ (What is my i paddress)
+- https://www.joesecurity.org/joe-reverser (SandBox)
+
 
 
 
