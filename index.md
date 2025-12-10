@@ -143,6 +143,11 @@ Permite ver y probar cómo se comporta un sitio web en diferentes navegadores y 
 ![alt text](image-22.png)
 
 
+
+# Enlace a la presentación
+
+https://www.canva.com/design/DAG69jicoMw/vtm2HTkxk-yxtNPg9-kGTg/edit?utm_content=DAG69jicoMw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Bibliografía
 
 - https://webcatalog.io/es/apps/visualping-io (Visualping)
